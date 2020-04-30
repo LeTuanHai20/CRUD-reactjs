@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "Name":"Lê Tuấn Hải",
+        "PhoneNumber":"0379123473",
+        "Role":"Admin"
+    },
+    {
+        "id":2,
+        "Name":"Lê Tuấn Chung",
+        "PhoneNumber":"0374546123",
+        "Role":"User"
+    },
+    {
+        "id":3,
+        "Name":"Hoàng Anh Tuấn",
+        "PhoneNumber":"0982990634",
+        "Role":"User"
+    },
+    {
+        "id":4,
+        "Name":"Trịnh Thị Hạnh",
+        "PhoneNumber":"036893234",
+        "Role":"Admin"
+    }
+]
